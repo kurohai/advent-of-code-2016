@@ -1,0 +1,1277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"step",
+				"total_steps	statement"
+			],
+			[
+				"no",
+				"north_south	statement"
+			],
+			[
+				"compass",
+				"compass_nav	param"
+			],
+			[
+				"na",
+				"navpoints	statement"
+			],
+			[
+				"dire",
+				"directions"
+			],
+			[
+				"Mous",
+				"MouseMove"
+			],
+			[
+				"Mess",
+				"SendMessage"
+			],
+			[
+				"curr",
+				"current_path"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"str",
+				"stringIt"
+			],
+			[
+				"image",
+				"imageData〔argument〕"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"previ",
+				"preview_file_url"
+			],
+			[
+				"url_",
+				"url_queries"
+			],
+			[
+				"upda",
+				"updateSettings"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"updateS",
+				"updateSettingsButton"
+			],
+			[
+				"table",
+				"table-view"
+			],
+			[
+				"Mod",
+				"ModalTest〔variable〕"
+			],
+			[
+				"icon",
+				"icon-small"
+			],
+			[
+				"mcSw",
+				"mcSwipePreviousImage"
+			],
+			[
+				"Hamm",
+				"HammerPinch〔variable〕"
+			],
+			[
+				"Hammer",
+				"HammerPinch"
+			],
+			[
+				"ena",
+				"enableZoom"
+			],
+			[
+				"double",
+				"doubletapEvent"
+			],
+			[
+				"setting-bas",
+				"setting-base-url-input"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"Base",
+				"BaseUrlSetting〔variable〕"
+			],
+			[
+				"Sett",
+				"SettingsContainer〔variable〕"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"scre",
+				"screenImage〔variable〕"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"update",
+				"updateCurrentPath〔function〕"
+			],
+			[
+				"acti",
+				"activateMainApp〔function〕"
+			],
+			[
+				"pagin",
+				"pagingNextMain"
+			],
+			[
+				"pag",
+				"pagingNextImage"
+			],
+			[
+				"paging",
+				"pagingNextImage"
+			],
+			[
+				"mcB",
+				"mcButtonPreviousPage"
+			],
+			[
+				"pagingN",
+				"pagingNextMain"
+			],
+			[
+				"refre",
+				"refreshMainPage"
+			],
+			[
+				"actu",
+				"activateImageApp〔function〕"
+			],
+			[
+				"mcBu",
+				"mcButtonRefresh"
+			],
+			[
+				"settings",
+				"settingsButton〔variable〕"
+			],
+			[
+				"top",
+				"top-nav-button-previous"
+			],
+			[
+				"load",
+				"loadFullImage"
+			],
+			[
+				"pagingP",
+				"pagingPreviousImage"
+			],
+			[
+				"pagingPr",
+				"pagingPreviousMain"
+			],
+			[
+				"page",
+				"pagingNextMain"
+			],
+			[
+				"up",
+				"updateImageFlag"
+			],
+			[
+				"current",
+				"current_results〔variable〕"
+			],
+			[
+				"url",
+				"url_queries"
+			],
+			[
+				"activa",
+				"activateMainApp"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"ima",
+				"imageData"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"listI",
+				"listID〔variable〕"
+			],
+			[
+				"onD",
+				"onDirectorySuccess〔variable〕"
+			],
+			[
+				"tem",
+				"template_dir"
+			],
+			[
+				"pare",
+				"parentObj"
+			],
+			[
+				"init",
+				"initializeResult"
+			],
+			[
+				"scan",
+				"scanDexcom"
+			],
+			[
+				"assert",
+				"assertIn	function"
+			],
+			[
+				"Kindex",
+				"KindexModel	class"
+			],
+			[
+				"Wild",
+				"WildcardPlugin	class"
+			],
+			[
+				"pref",
+				"PrefixPlugin	class"
+			],
+			[
+				"wild",
+				"WildcardPlugin	class"
+			],
+			[
+				"field",
+				"field_boost	param"
+			],
+			[
+				"Rege",
+				"RegexPlugin	class"
+			],
+			[
+				"Ever",
+				"EveryPlugin	class"
+			],
+			[
+				"Multi",
+				"MultifieldParser	function"
+			],
+			[
+				"Reg",
+				"RegexPlugin	class"
+			],
+			[
+				"exc",
+				"exclude_path_term	statement"
+			],
+			[
+				"enco",
+				"encode_file	function"
+			],
+			[
+				"index",
+				"indexdir	statement"
+			],
+			[
+				"re",
+				"remove	function"
+			],
+			[
+				"stage",
+				"stagefile	statement"
+			],
+			[
+				"v",
+				"verbose"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"save",
+				"save-only"
+			],
+			[
+				"rese",
+				"resendfile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "800-217-2240\n\nlocal hrc\n\n1\n2\n\n\n1\n1\n\n\n1\n2\n\n\n\n\n\n\n\nRequiter: Jordan\n\n\nAM: Taylor\n\naws azure angular\n\n\n\n\nsparkhire interview\n\n\n",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Unix",
+				"name": "800-217-2240"
+			}
+		},
+		{
+			"file": "/C/Dropbox/git/dicto/dicto.py",
+			"settings":
+			{
+				"buffer_size": 819,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "pro man ",
+		"selected_items":
+		[
+			[
+				"pro man ",
+				"Project Manager: Add New Project"
+			],
+			[
+				"pro save",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Add Folder"
+			],
+			[
+				"set pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"aut",
+				"AutoHotkey - Run"
+			],
+			[
+				"set ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"add p",
+				"Project Manager: Add Project"
+			],
+			[
+				"add pro",
+				"Project Manager: Add Project"
+			],
+			[
+				"set babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"mark",
+				"MarkdownEditing: Delete Reference"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sftp sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"sftp",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"manager add",
+				"Project Manager: Add Project"
+			],
+			[
+				"project add",
+				"Project Manager: Add Project"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"side b",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"js",
+				"Build With: JSHint"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ever open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"find ob",
+				"Anaconda: Find object usage"
+			],
+			[
+				"install ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 466.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dropbox/git/advent-of-code"
+	],
+	"file_history":
+	[
+		"/C/Dropbox/git/advent-of-code/bunny-01.py",
+		"/D/dropbox/projects/rbot/household/phone-wall-mount/README.txt",
+		"/C/Users/root/AppData/Local/Temp/7zO7CB7.tmp/README.txt",
+		"/D/Dropbox/projects/ahk/hearthstone-01.ahk",
+		"/C/Dropbox/Evan/Resume/2016/taos-other-jobs.md",
+		"/E/World of Warcraft/Interface/AddOns/TriviaBot_Vanilla/TriviaBot_Vanilla.toc",
+		"/E/World of Warcraft/Interface/AddOns/TriviaBot/Questions/README_EN.txt",
+		"/E/World of Warcraft/Interface/AddOns/TriviaBot/Questions/TriviaBot_QuizTemplate/TriviaQuestions.lua",
+		"/E/World of Warcraft/Interface/AddOns/TriviaBot/Questions/TriviaBot-master/TriviaQuestions.lua",
+		"/E/World of Warcraft/Interface/AddOns/TriviaBot_Vanilla/core.lua",
+		"/E/World of Warcraft/Interface/AddOns/TriviaBot_Vanilla/TriviaQuestions.lua",
+		"/E/World of Warcraft/Interface/AddOns/TriviaBot/Questions/TriviaQuestions2.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/bindings-cache.wtf",
+		"/C/Dropbox/git/pywow/quickgrab.py",
+		"/C/Dropbox/extract/WARCRAFT/PATH.WAR",
+		"/C/Dropbox/extract/WARCRAFT/DOS4GW.EXE",
+		"/C/Dropbox/extract/WARCRAFT/CONFIG.WAR",
+		"/C/Users/root/AppData/Local/Temp/7zOA9B1.tmp/WAR_EDIT.TXT",
+		"/C/Users/root/AppData/Local/Temp/7zOE9FC.tmp/README.TXT",
+		"/E/World of Warcraft/Interface/AddOns/TomTom/TomTom.toc",
+		"/E/World of Warcraft/Interface/AddOns/BagBrother/API.lua",
+		"/E/World of Warcraft/Interface/AddOns/BagBrother/BagBrother.toc",
+		"/E/World of Warcraft/Interface/AddOns/BagBrother/Events.lua",
+		"/E/World of Warcraft/Interface/AddOns/BagBrother/License.url",
+		"/E/World of Warcraft/Interface/AddOns/BagBrother/Startup.lua",
+		"/E/World of Warcraft/Interface/AddOns/Bagnon/main.lua",
+		"/E/World of Warcraft/Interface/AddOns/HelloKuro/HelloKuro.xml",
+		"/E/World of Warcraft/Interface/AddOns/Bagnon/Bindings.xml",
+		"/E/World of Warcraft/Interface/AddOns/Bagnon/common/core/core.xml",
+		"/E/World of Warcraft/Interface/AddOns/HelloKuro/HelloKuro.lua",
+		"/E/World of Warcraft/Interface/AddOns/HelloKuro/HelloKuro.toc",
+		"/E/World of Warcraft/Interface/AddOns/Bartender4/libs/AceConsole-3.0/AceConsole-3.0.lua",
+		"/E/World of Warcraft/Interface/AddOns/Bartender4/ActionBar.lua",
+		"/E/World of Warcraft/Interface/AddOns/Bagnon/libs/AceConsole-3.0/AceConsole-3.0.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/SavedVariables/Bartender4.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kuroesque/config-cache.wtf",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Skada.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_RaidUI.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/TellMeWhen.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/SavedVariables/MacroToolkit.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/macros-cache.txt",
+		"/E/World of Warcraft/WTF/Account/740157#1/SavedVariables/Blizzard_CombatLog.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/SavedVariables/BagBrother.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/layout-local.txt",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/config-cache.wtf",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/TellMeWhen.lua",
+		"/E/World of Warcraft/WTF/Config.wtf",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kuroesque/layout-local.txt",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/AtlasLoot.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/AtlasLoot.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_BattlefieldMinimap.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_ClientSavedVariables.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_ClientSavedVariables.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_BattlefieldMinimap.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_RaidUI.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_TimeManager.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Blizzard_TimeManager.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-BrokenIsles.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-Core.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-BrokenIsles.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-Core.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-EmeraldNightmare.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-EmeraldNightmare.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-GarrisonInvasions.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-Party-Legion.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-Party-Legion.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-WorldEvents.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DBM-WorldEvents.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/EnemyGrid.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/DejaCharacterStats.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/GarrisonCommander.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/EnemyGrid.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/GarrisonCommander.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Gatherer.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Pawn.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Gatherer.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Prat-3.0.lua",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Pawn.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Skada.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/SavedVariables/Prat-3.0.lua.bak",
+		"/E/World of Warcraft/WTF/Account/740157#1/Saurfang/Kurohai/macros-cache.txt",
+		"/F/dicket.txt",
+		"/E/World of Warcraft/Logs/FrameXML.log",
+		"/E/World of Warcraft/Logs/WoWCombatLog.txt",
+		"/C/Dropbox/lt-db/wow/raid-notes/emerald-nightmare.md",
+		"/D/dropbox/lt-db/netapp-dr/netapp-dr-snapmirror-how-to.md",
+		"/D/dropbox/lt-db/netapp-dr/volume-list.txt",
+		"/D/dropbox/lt-db/netapp-dr/snapmirror-commands.md",
+		"/C/Dropbox/lt-db/netapp-dr/volume-list.txt",
+		"/N/brdocit.diff",
+		"/N/brdocit-file-list.sh",
+		"/N/brdocit/.gitignore",
+		"/N/brdocit/sftp-config.json",
+		"/N/brdocit/docs/docs/sysadmin/notes-on-brcharon.md",
+		"/N/brdocit/brdocit.conf",
+		"/N/testarea/npc-vip-inv-chk-2016-08-08.txt",
+		"/N/scripts/LowesInvoices/app.py",
+		"/N/brdocit/docs/docs/how-to/bestvendor-invoice-export.md",
+		"/N/scripts/npci-report-2016-08-08.sh",
+		"/N/testarea/npc-vip-inv-out-2016-08-08.txt",
+		"//brpna-nas/vbots/botssys/internal/bots/infile/810/archive/20160706/edi-resends-npci.txt.headers-fixed.txt",
+		"/N/scripts/check-file-exist.sh",
+		"/N/scripts/pitstopprep.sh",
+		"/N/scripts/compassgprep.sh",
+		"/D/Dropbox/git/mobile-booru/www/css/index.css",
+		"/D/Dropbox/git/mobile-booru/www/js/kuroapp.js",
+		"/d/dropbox/git/mobile-booru/.gitignore",
+		"/d/dropbox/git/mobile-booru/.giti",
+		"/D/Dropbox/git/mobile-booru/data/bas64-strings.js",
+		"/D/Dropbox/git/mobile-booru/www/js/react-ui.jsx",
+		"/D/Dropbox/git/mobile-booru/www/css-that-works.html",
+		"/D/Dropbox/git/mobile-booru/www/js/hammerpinch.js",
+		"/D/Dropbox/git/mobile-booru/www/main-index.html",
+		"/D/Dropbox/git/mobile-booru/www/sftp-config.json",
+		"/D/Dropbox/git/mobile-booru/list-of-booru-sites.md",
+		"/D/Dropbox/git/mobile-booru/www/index.html",
+		"/D/Dropbox/git/mobile-booru/data/myimouto-api-ref.md",
+		"/D/Dropbox/git/mobile-booru/data/gelbooru-api-ref.md",
+		"/D/Dropbox/git/mobile-booru/data/thedoujin-api-ref.md",
+		"/D/dropbox/git/mobile-booru/data/.api-key.md",
+		"/D/Dropbox/git/mobile-booru/data/release-version-apk-signing.md",
+		"/D/Dropbox/git/mobile-booru/data/create-apple-dev-csr.md",
+		"/D/Dropbox/git/mobile-booru/platforms/ios/ios.json",
+		"/D/Dropbox/git/mobile-booru/config.xml",
+		"/D/Dropbox/git/mobile-booru/platforms/platforms.json",
+		"/D/Dropbox/git/mobile-booru/readme.md",
+		"/D/Dropbox/git/mobile-booru/data/tablet-debug-log.txt",
+		"/D/Dropbox/downloads/PBEX_VIP_IN_BUFFROCK_1100001004249_PAPAJOHNS_10222015144136.in.edi"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<open files>",
+			"<project files>,D:\\Dropbox\\git\\mobile-booru\\www",
+			"<project files>,<open files>,<project folders>,<open folders>",
+			"<project files>,<open files>,<project folders>",
+			"<project files>,<open files>",
+			"<project files>,<open folders>,<open files>",
+			"<project files>, <open fiiles>",
+			"<project files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			", [a-z]",
+			"[a-z]",
+			", [a-z]",
+			", ",
+			"[a-z]",
+			"GetAbsolutePixels",
+			"mousec",
+			"PassTurn",
+			"Emote",
+			"pass",
+			"OpenMenu",
+			" +",
+			" +|\\n",
+			"mission",
+			"mouseover",
+			"target",
+			"\\n",
+			", ",
+			"slash",
+			"Slashcmd",
+			"Command",
+			"SlashCmdList",
+			"lock",
+			"bt lock",
+			"/bt",
+			"key",
+			"macro",
+			"^[0-9] (.+)",
+			"target",
+			"^VER.+?\\\"(.+?)\\\".+",
+			" ",
+			" +",
+			"( +)?\\n +",
+			".+\\.(doc|pdf|zip|xls|png).+\\n",
+			".+\\.(docx|pdf|zip|xls).+\\n",
+			".+\\.docx.+\\n",
+			"(\\./.+)",
+			"^",
+			"chk",
+			"infile",
+			"([0-9]{9})",
+			"^([0-9]{9})",
+			"([0-9]{9})",
+			"HDA0004",
+			"20160705",
+			"20160705P",
+			"78153235",
+			"8em",
+			"2px",
+			"em",
+			"2em",
+			"width:",
+			"padding",
+			"margin",
+			"margin-l",
+			"sett",
+			"stringIt",
+			" updateSe",
+			"stringIt",
+			"danboo",
+			"imageListMain",
+			"img-div",
+			"imageListMain",
+			"main-view",
+			"content",
+			"img-div-",
+			"img-div",
+			"imageListMain",
+			"main-view",
+			"imageListMain",
+			"\\\\",
+			" updateSe",
+			"formatFullURL",
+			"updateI",
+			"^",
+			"^ |`|'|,|\\.",
+			",",
+			"~",
+			"\\.includes\\(",
+			"includes",
+			"^( +[a-zA-Z]+)\\(\\) \\{\\n",
+			"net",
+			"preview_file_url",
+			" updateSe",
+			"updateSe",
+			"1008",
+			"updatec",
+			" get",
+			"updateSettings",
+			" updateSe",
+			"form",
+			"setting-base-url-input",
+			" updateSe",
+			"list-image-per",
+			"ModalTest",
+			"class=",
+			"setting",
+			"setti",
+			"content",
+			"-right",
+			"-left",
+			"swiperight",
+			"swipel",
+			"\\: +",
+			"\\:",
+			"^\\}(\\n)*",
+			"\\}",
+			"debug",
+			"\\.app",
+			"activateDebugApp",
+			"kuroapp.screenDebug",
+			"activateDe",
+			" activateDe",
+			"kuroapp.resetScreenScale",
+			"HammerPinch closeEvent",
+			"kuroapp.log",
+			"webkitTransform",
+			"this.",
+			"webkitthis",
+			"this.",
+			"hammerti",
+			",",
+			"this.elm",
+			"(posX|posY|scale|last_scale|last_posX|last_posY|max_pos_x|max_pos_y|transform|el)",
+			"\\n",
+			" = .+",
+			"last_scale",
+			"block"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" + ",
+			"",
+			" ",
+			"focus",
+			"mouseover",
+			"",
+			", \\n",
+			"_\\1-mo",
+			"mouseover",
+			"\\1",
+			"\\t",
+			" ",
+			"",
+			"\"\\1\"",
+			"dos2unix ",
+			"out",
+			"outfile",
+			"\"NPC~IN~\\1\"",
+			"grep -r \\1 /mnt/vipbots/botssys/internal/bots/infile/v810/archive/npc/",
+			"^grep -r \\1 /mnt/vipbots/botssys/internal/bots/infile/v810/archive/npc/",
+			"10em",
+			"main-view",
+			"/",
+			"- ",
+			"",
+			",\\n",
+			"~\\n",
+			".indexOf(",
+			"\\1: function() {\\n",
+			"\\1: function() {",
+			"list-item-per",
+			"className=",
+			": ",
+			":  ",
+			"}\\n\\n",
+			"}\\n",
+			"}\\n\\n",
+			"activateSettingsApp",
+			"kuroapp.screenSettings",
+			"HammerPinch.resetScreenScale",
+			"HammerPinch.closeEvent",
+			"log",
+			"HammerPinch.",
+			"webkit",
+			"HammerPinch.",
+			";",
+			"this.\\1",
+			"|",
+			"",
+			"this.last_scale",
+			"logging-con",
+			"settings",
+			"SettingsApp",
+			"screenSettings",
+			"settings-app",
+			"\\n\\n###",
+			"\\n\\n\\n###",
+			"### ",
+			"",
+			"\\n",
+			"}\\n",
+			"\\n",
+			"/",
+			"mcSwipePreviousPage",
+			"mcSwipeNextPage",
+			"mcSwipePreviousImage",
+			"mcSwipeNextImage",
+			"mcButtonPreviousPage",
+			"image-view",
+			"lib/quojs-3.0.5/",
+			"kuroapp.divHolder",
+			"screenImage",
+			"activateImageApp",
+			"\\n",
+			"\\1\\n",
+			"'''",
+			"\\\\'",
+			"\\n-",
+			"\\n- ",
+			"(",
+			"kuroapp.activate",
+			"\".app\"",
+			"image-app",
+			"startKordovaTemplateApp",
+			"KordovaTemplate",
+			"com.kurohai.mobilemoe",
+			"kuroapp.log",
+			"startDexcomScan",
+			"kuroapp\\1",
+			"kuroapp\\.screenMain\\.",
+			"        this.screen",
+			"this.screen",
+			"className = \\1",
+			"};\\n",
+			"};",
+			"\\\\\"",
+			"\\'",
+			": ",
+			"",
+			"/compassg",
+			"compassg/",
+			"/compassg/",
+			"",
+			"kindex.py ",
+			"sanitize",
+			"sanatize_directory",
+			"create_index",
+			"format_index_path",
+			"index_file",
+			"KindexController",
+			"\\\\\\\\",
+			"\\\\",
+			"(\\1) + ",
+			"*",
+			"",
+			" + ",
+			"*",
+			"",
+			".file.msg",
+			"\\1",
+			"\\n",
+			"",
+			"\\1",
+			"$d3",
+			"\\n",
+			"",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								123,
+								123
+							]
+						],
+						"settings":
+						{
+							"auto_name": "800-217-2240",
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Dropbox/git/dicto/dicto.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								819,
+								819
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"remote_loading": false,
+							"syncScroll": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 368.0
+	},
+	"pinned_build_system": "Packages/User/javascript.sublime-build",
+	"project": "advent-of-code.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"best",
+				"docs\\docs\\how-to\\bestvendor-invoice-export.md"
+			],
+			[
+				"index.css",
+				"www\\css\\index.css"
+			],
+			[
+				"lis",
+				"list-of-booru-sites.md"
+			],
+			[
+				"index",
+				"www\\index.html"
+			],
+			[
+				"plat",
+				"platforms\\platforms.json"
+			],
+			[
+				"data/",
+				"data\\release-version-apk-signing.md"
+			],
+			[
+				"reac",
+				"www\\js\\react-ui.jsx"
+			],
+			[
+				"index.c",
+				"www\\css\\index.css"
+			],
+			[
+				"index.js",
+				"www\\js\\index.js"
+			],
+			[
+				"index.html",
+				"www\\index.html"
+			],
+			[
+				"kuroapp",
+				"www\\js\\kuroapp.js"
+			],
+			[
+				"post.js",
+				"data\\danbooru-posts.json"
+			],
+			[
+				"json",
+				"mobile-booru.json"
+			],
+			[
+				"api",
+				"data\\api-docs.md"
+			],
+			[
+				"con",
+				"config.xml"
+			],
+			[
+				"releasever",
+				"data\\release-version-apk-signing.md"
+			],
+			[
+				"mainindex",
+				"www\\main-index.html"
+			],
+			[
+				"pinch",
+				"www\\js\\hammerpinch.js"
+			],
+			[
+				"main-in",
+				"www\\main-index.html"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"android",
+				"platforms\\android\\AndroidManifest.xml"
+			],
+			[
+				"sign",
+				"release-version-apk-signing.md"
+			],
+			[
+				"confi",
+				"config.xml"
+			],
+			[
+				"config",
+				"config.xml"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"androidman",
+				"platforms\\android\\AndroidManifest.xml"
+			],
+			[
+				"config.xml",
+				"config.xml"
+			],
+			[
+				"standa",
+				"www\\lib\\quojs-3.0.5\\quo.standalone.js"
+			],
+			[
+				"",
+				"www\\index.html"
+			],
+			[
+				"quo",
+				"www\\lib\\quojs-3.0.5\\quo.element.js"
+			],
+			[
+				"quoges",
+				"www\\lib\\quojs-3.0.5\\quo.gestures.js"
+			],
+			[
+				"html",
+				"www\\index.html"
+			],
+			[
+				".css",
+				"www\\css\\index.css"
+			],
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"redo",
+				"kindex\\redo.sh"
+			],
+			[
+				"__",
+				"kindex\\__init__.py"
+			],
+			[
+				"gitig",
+				"kindex\\.gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
