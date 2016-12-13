@@ -5,19 +5,19 @@
 		[
 			[
 				"step",
-				"total_steps	statement"
+				"total_steps\tstatement"
 			],
 			[
 				"no",
-				"north_south	statement"
+				"north_south\tstatement"
 			],
 			[
 				"compass",
-				"compass_nav	param"
+				"compass_nav\tparam"
 			],
 			[
 				"na",
-				"navpoints	statement"
+				"navpoints\tstatement"
 			],
 			[
 				"dire",
@@ -129,7 +129,7 @@
 			],
 			[
 				"ac",
-				"action	Attr"
+				"action\tAttr"
 			],
 			[
 				"update",
@@ -249,63 +249,63 @@
 			],
 			[
 				"assert",
-				"assertIn	function"
+				"assertIn\tfunction"
 			],
 			[
 				"Kindex",
-				"KindexModel	class"
+				"KindexModel\tclass"
 			],
 			[
 				"Wild",
-				"WildcardPlugin	class"
+				"WildcardPlugin\tclass"
 			],
 			[
 				"pref",
-				"PrefixPlugin	class"
+				"PrefixPlugin\tclass"
 			],
 			[
 				"wild",
-				"WildcardPlugin	class"
+				"WildcardPlugin\tclass"
 			],
 			[
 				"field",
-				"field_boost	param"
+				"field_boost\tparam"
 			],
 			[
 				"Rege",
-				"RegexPlugin	class"
+				"RegexPlugin\tclass"
 			],
 			[
 				"Ever",
-				"EveryPlugin	class"
+				"EveryPlugin\tclass"
 			],
 			[
 				"Multi",
-				"MultifieldParser	function"
+				"MultifieldParser\tfunction"
 			],
 			[
 				"Reg",
-				"RegexPlugin	class"
+				"RegexPlugin\tclass"
 			],
 			[
 				"exc",
-				"exclude_path_term	statement"
+				"exclude_path_term\tstatement"
 			],
 			[
 				"enco",
-				"encode_file	function"
+				"encode_file\tfunction"
 			],
 			[
 				"index",
-				"indexdir	statement"
+				"indexdir\tstatement"
 			],
 			[
 				"re",
-				"remove	function"
+				"remove\tfunction"
 			],
 			[
 				"stage",
-				"stagefile	statement"
+				"stagefile\tstatement"
 			],
 			[
 				"v",
@@ -328,20 +328,29 @@
 	"buffers":
 	[
 		{
-			"contents": "800-217-2240\n\nlocal hrc\n\n1\n2\n\n\n1\n1\n\n\n1\n2\n\n\n\n\n\n\n\nRequiter: Jordan\n\n\nAM: Taylor\n\naws azure angular\n\n\n\n\nsparkhire interview\n\n\n",
+			"file": "day_06_01.txt",
 			"settings":
 			{
-				"buffer_size": 123,
-				"line_ending": "Unix",
-				"name": "800-217-2240"
+				"buffer_size": 5382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Dropbox/git/dicto/dicto.py",
+			"file": "day_06.py",
 			"settings":
 			{
-				"buffer_size": 819,
-				"line_ending": "Windows"
+				"buffer_size": 1568,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "day_04.py",
+			"settings":
+			{
+				"buffer_size": 894,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -352,10 +361,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 375.0,
-		"last_filter": "pro man ",
+		"height": 164.0,
+		"last_filter": "install",
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"import",
+				"Project Manager: Import .sublime-project File"
+			],
 			[
 				"pro man ",
 				"Project Manager: Add New Project"
@@ -393,20 +414,12 @@
 				"Set Syntax: JavaScript (Babel)"
 			],
 			[
-				"set mark",
-				"Set Syntax: Markdown"
-			],
-			[
 				"set plain",
 				"Set Syntax: Plain Text"
 			],
 			[
 				"mark",
 				"MarkdownEditing: Delete Reference"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"set bab",
@@ -497,7 +510,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 466.0
+		"width": 471.0
 	},
 	"console":
 	{
@@ -518,10 +531,19 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Dropbox/git/advent-of-code"
+		"/mnt/data/dropbox/git/advent-of-code"
 	],
 	"file_history":
 	[
+		"/mnt/data/dropbox/Evan/daily-access-401k-withdrawal-agreement-notes.md",
+		"/mnt/data/dropbox/Evan/Resume/2016/jp-morgan-notes.txt",
+		"/mnt/data/dropbox/git/advent-of-code/day_06.py",
+		"/mnt/data/dropbox/git/advent-of-code/day_05.py",
+		"/mnt/data/dropbox/git/advent-of-code/day_04.txt",
+		"/mnt/data/dropbox/git/advent-of-code/day_04.py",
+		"/mnt/data/dropbox/git/advent-of-code/day_03.py",
+		"/mnt/data/dropbox/Evan/Resume/2016/notes-2016-12-05.txt",
+		"/C/Dropbox/git/dicto/dicto.py",
 		"/C/Dropbox/git/advent-of-code/bunny-01.py",
 		"/D/dropbox/projects/rbot/household/phone-wall-mount/README.txt",
 		"/C/Users/root/AppData/Local/Temp/7zO7CB7.tmp/README.txt",
@@ -640,20 +662,11 @@
 		"/D/Dropbox/git/mobile-booru/www/index.html",
 		"/D/Dropbox/git/mobile-booru/data/myimouto-api-ref.md",
 		"/D/Dropbox/git/mobile-booru/data/gelbooru-api-ref.md",
-		"/D/Dropbox/git/mobile-booru/data/thedoujin-api-ref.md",
-		"/D/dropbox/git/mobile-booru/data/.api-key.md",
-		"/D/Dropbox/git/mobile-booru/data/release-version-apk-signing.md",
-		"/D/Dropbox/git/mobile-booru/data/create-apple-dev-csr.md",
-		"/D/Dropbox/git/mobile-booru/platforms/ios/ios.json",
-		"/D/Dropbox/git/mobile-booru/config.xml",
-		"/D/Dropbox/git/mobile-booru/platforms/platforms.json",
-		"/D/Dropbox/git/mobile-booru/readme.md",
-		"/D/Dropbox/git/mobile-booru/data/tablet-debug-log.txt",
-		"/D/Dropbox/downloads/PBEX_VIP_IN_BUFFROCK_1100001004249_PAPAJOHNS_10222015144136.in.edi"
+		"/D/Dropbox/git/mobile-booru/data/thedoujin-api-ref.md"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -676,6 +689,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"(^(?!( )).+)",
+			"\\n\\n",
+			"\\n\\n\\n",
+			"\\n",
 			", [a-z]",
 			"[a-z]",
 			", [a-z]",
@@ -799,11 +816,7 @@
 			"hammerti",
 			",",
 			"this.elm",
-			"(posX|posY|scale|last_scale|last_posX|last_posY|max_pos_x|max_pos_y|transform|el)",
-			"\\n",
-			" = .+",
-			"last_scale",
-			"block"
+			"(posX|posY|scale|last_scale|last_posX|last_posY|max_pos_x|max_pos_y|transform|el)"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -811,6 +824,9 @@
 		"regex": true,
 		"replace_history":
 		[
+			"\\n\\n\\1",
+			"\\n",
+			"",
 			" + ",
 			"",
 			" ",
@@ -935,10 +951,7 @@
 			"",
 			"\\1",
 			"$d3",
-			"\\n",
-			"",
-			"\\n",
-			""
+			"\\n"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -949,58 +962,60 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "day_06_01.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 123,
+						"buffer_size": 5382,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								123,
-								123
+								5318,
+								5318
 							]
 						],
 						"settings":
 						{
-							"auto_name": "800-217-2240",
+							"auto_complete": false,
 							"incomplete_sync": null,
 							"origPos":
 							[
 								0.0,
-								0.0
+								10730.0
 							],
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syncScroll": false,
+							"syntax": "Packages/MarkdownEditing/Markdown (Standard).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 10730.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Dropbox/git/dicto/dicto.py",
+					"file": "day_06.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 819,
+						"buffer_size": 1568,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								819,
-								819
+								1568,
+								1568
 							]
 						],
 						"settings":
@@ -1009,7 +1024,7 @@
 							"origPos":
 							[
 								0.0,
-								0.0
+								900.0
 							],
 							"remote_loading": false,
 							"syncScroll": false,
@@ -1019,7 +1034,45 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 900.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "day_04.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 894,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								751,
+								751
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"origPos":
+							[
+								0.0,
+								225.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1030,7 +1083,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -1075,7 +1128,7 @@
 	"project": "advent-of-code.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 68.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1268,7 +1321,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 237.0,
 	"status_bar_visible": true,
 	"template_settings":
