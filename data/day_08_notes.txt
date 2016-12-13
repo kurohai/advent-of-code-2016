@@ -1,0 +1,14 @@
+50x6
+
+
+
+rect(a, b)
+"""turn on all pixels a=x, b=y starting top left"""
+
+rotate row y=A by B
+
+
+get rectangle
+store shape in some meaningful way
+begin manipulation
+

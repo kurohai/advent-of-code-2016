@@ -1,0 +1,5 @@
+parse data as a instruction stream
+
+open paren begins instruction set.
+next chars are ints
+last char is x, which ends instruction set
